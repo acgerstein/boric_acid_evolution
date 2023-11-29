@@ -1,0 +1,7 @@
+makeRectangle(1878, 1344, 2304, 2430);
+run("Crop");
+run("Invert");
+run("8-bit");
+setMinAndMax(100, 130);
+run("Apply LUT");
+run("Subtract Background...", "rolling=80");
