@@ -1,0 +1,134 @@
+
+
+Software Version	3.11.19
+
+
+
+Experiment File Path:	C:\Users\Nebo\Desktop\Yana\LiquidAssays\230322-25BA_LA\230323_LA_24h.xpt
+Protocol File Path:	C:\Users\Nebo\Desktop\Standard Protocol Templates\Standardizing\OD600_PointRead.prt
+
+
+
+Plate Number	Plate 6
+Date	3/23/2023
+Time	12:12:22 PM
+Reader Type:	Synergy H1
+Reader Serial Number:	2202210A
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	Greiner 96 round bottom
+Eject plate on completion	
+Shake	Orbital: 0:15 (MM:SS)
+	Frequency: 282 cpm (3 mm)
+Read	OD600
+	Absorbance Endpoint
+	Full Plate
+	Wavelengths:  600
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 8
+
+
+
+Actual Temperature:	27.1
+
+Results
+
+Well	OD600:600
+A1	0.099
+A2	0.097
+A3	0.103
+A4	0.105
+A5	0.144
+A6	0.130
+A7	0.118
+A8	0.134
+A9	0.113
+A10	0.122
+A11	0.108
+A12	0.159
+B1	0.130
+B2	0.179
+B3	0.189
+B4	0.168
+B5	0.168
+B6	0.160
+B7	0.154
+B8	0.162
+B9	0.166
+B10	0.165
+B11	0.147
+B12	0.131
+C1	0.128
+C2	0.191
+C3	0.194
+C4	0.182
+C5	0.179
+C6	0.176
+C7	0.161
+C8	0.159
+C9	0.145
+C10	0.145
+C11	0.147
+C12	0.114
+D1	0.127
+D2	0.175
+D3	0.201
+D4	0.213
+D5	0.191
+D6	0.175
+D7	0.168
+D8	0.159
+D9	0.159
+D10	0.148
+D11	0.154
+D12	0.121
+E1	0.127
+E2	0.184
+E3	0.195
+E4	0.177
+E5	0.182
+E6	0.174
+E7	0.167
+E8	0.175
+E9	0.150
+E10	0.160
+E11	0.164
+E12	0.124
+F1	0.131
+F2	0.179
+F3	0.186
+F4	0.179
+F5	0.172
+F6	0.169
+F7	0.160
+F8	0.159
+F9	0.152
+F10	0.157
+F11	0.137
+F12	0.112
+G1	0.139
+G2	0.185
+G3	0.184
+G4	0.163
+G5	0.164
+G6	0.158
+G7	0.148
+G8	0.150
+G9	0.151
+G10	0.142
+G11	0.171
+G12	0.096
+H1	0.200
+H2	0.151
+H3	0.148
+H4	0.145
+H5	0.129
+H6	0.126
+H7	0.175
+H8	0.111
+H9	0.113
+H10	0.115
+H11	0.102
+H12	0.132
+

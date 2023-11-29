@@ -1,0 +1,134 @@
+
+
+Software Version	3.12.08
+
+
+
+Experiment File Path:	C:\Users\Zaki\Desktop\Yana\230324_BA_LA48h.xpt
+Protocol File Path:	C:\Users\Public\Documents\Protocols\PointRead600_onePlate.prt
+
+
+
+Plate Number	Plate 8
+Date	3/24/2023
+Time	12:26:43 PM
+Reader Type:	Epoch 2
+Reader Serial Number:	22032006
+Reading Type	Reader
+
+Procedure Details
+
+Plate Type	Gerstein_Greine_RB
+Eject plate on completion	
+Shake	Linear: 0:15 (MM:SS)
+	Frequency: 567 cpm (3 mm)
+Read	OD600
+	Absorbance Endpoint
+	Full Plate
+	Wavelengths:  600
+	Read Speed: Normal,  Delay: 100 msec,  Measurements/Data Point: 8
+
+
+
+Actual Temperature:	25.3
+
+Results
+
+Well	OD600:600
+A1	0.077
+A2	0.105
+A3	0.125
+A4	0.121
+A5	0.165
+A6	0.141
+A7	0.133
+A8	0.154
+A9	0.135
+A10	0.144
+A11	0.138
+A12	0.204
+B1	0.138
+B2	0.136
+B3	0.143
+B4	0.153
+B5	0.158
+B6	0.158
+B7	0.158
+B8	0.160
+B9	0.163
+B10	0.158
+B11	0.143
+B12	0.140
+C1	0.141
+C2	0.160
+C3	0.165
+C4	0.162
+C5	0.156
+C6	0.184
+C7	0.164
+C8	0.146
+C9	0.173
+C10	0.172
+C11	0.180
+C12	0.174
+D1	0.138
+D2	0.155
+D3	0.162
+D4	0.169
+D5	0.182
+D6	0.162
+D7	0.197
+D8	0.184
+D9	0.194
+D10	0.208
+D11	0.156
+D12	0.152
+E1	0.133
+E2	0.152
+E3	0.169
+E4	0.155
+E5	0.174
+E6	0.188
+E7	0.232
+E8	0.214
+E9	0.169
+E10	0.190
+E11	0.174
+E12	0.149
+F1	0.141
+F2	0.162
+F3	0.156
+F4	0.150
+F5	0.178
+F6	0.195
+F7	0.390
+F8	0.195
+F9	0.191
+F10	0.223
+F11	0.177
+F12	0.144
+G1	0.154
+G2	0.167
+G3	0.161
+G4	0.168
+G5	0.118
+G6	0.162
+G7	0.141
+G8	0.238
+G9	0.198
+G10	0.087
+G11	0.183
+G12	0.204
+H1	0.134
+H2	0.148
+H3	0.148
+H4	0.154
+H5	0.159
+H6	0.113
+H7	0.117
+H8	0.129
+H9	0.138
+H10	0.157
+H11	0.146
+H12	0.127
+
